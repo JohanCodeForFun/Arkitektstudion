@@ -1,14 +1,14 @@
-**Beställning av webbplats för arkitektfirma**
+Beställning av webbplats för arkitektfirma
 
-**Företagsinformation:**  
+Företagsinformation:  
 Företagsnamn: Arkitektstudion AB  
 Antal anställda: 8 (inklusive VD)  
 Verksamhet: Arkitekttjänster inom bostäder, kontor och offentliga byggnader  
 Målgrupp: Fastighetsutvecklare, privatpersoner och företag som söker arkitekttjänster  
 
-**Önskade sidor:**
+Önskade sidor:
 
-1. **Startsida**  
+1. Startsida  
    Syfte: Ge ett professionellt och välkomnande intryck som snabbt presenterar företagets profil och expertis.  
    Innehåll:
    - Huvudrubrik: "Vi skapar framtidens byggnader med passion och precision."
@@ -16,7 +16,7 @@ Målgrupp: Fastighetsutvecklare, privatpersoner och företag som söker arkitekt
    - Korta ingångar till ”Om oss”, ”Våra projekt” och ”Kontakta oss”.
    - Kontaktuppgifter: Telefonnummer och e-postadress.
 
-2. **Om oss**  
+2. Om oss  
    Syfte: Presentera företaget, dess historia, vision och arbetssätt.  
    Innehåll:
    - Historia: "Arkitektstudion AB grundades år 2010 med visionen att kombinera estetik och funktion i varje projekt."
@@ -24,7 +24,7 @@ Målgrupp: Fastighetsutvecklare, privatpersoner och företag som söker arkitekt
    - Arbetsmetodik: "Vi samarbetar nära med våra kunder för att förstå deras behov och leverera skräddarsydda lösningar."
    - Bild: Teamet på kontoret under en kreativ workshop.
 
-3. **Visa projekt**  
+3. Visa projekt  
    Syfte: Visa upp tidigare projekt och ge potentiella kunder en tydlig bild av företagets kompetens.  
    Innehåll:
    - Projekt: 
@@ -34,7 +34,7 @@ Målgrupp: Fastighetsutvecklare, privatpersoner och företag som söker arkitekt
    - Bilder: Professionella foton och ritningar av projekten.
    - Kundcitat: "Arkitektstudion överraskade oss positivt med sin kreativitet och noggrannhet."
 
-4. **Anställda på företaget**  
+4. Anställda på företaget  
    Syfte: Introducera teamet och skapa en personlig koppling till besökare.  
    Innehåll:
    - VD: Lisa Berglund – "Med 20 års erfarenhet leder Lisa teamet med vision och engagemang."
@@ -50,7 +50,7 @@ Målgrupp: Fastighetsutvecklare, privatpersoner och företag som söker arkitekt
      - Erik Holm: Ansvarar för ekonomi och kundkontakt.
    - Gruppfoto: "Team Arkitektstudion – Din partner inom innovativ design."
 
-5. **Kontakta oss för jobb**  
+5. Kontakta oss för jobb  
    Syfte: Underlätta för potentiella kunder att snabbt komma i kontakt.  
    Innehåll:
    - Kontaktformulär: Namn, e-post, ämne, meddelande.
@@ -60,18 +60,18 @@ Målgrupp: Fastighetsutvecklare, privatpersoner och företag som söker arkitekt
    - Karta: Inbäddad Google Maps.
    - Öppettider: Måndag–Fredag, 09:00–17:00.
 
-**Designönskemål:**  
+Designönskemål:  
 - Minimalistisk och modern design som reflekterar arkitektföretagets estetik.
 - Användning av färger som signalerar professionalism, som gråskala med inslag av accentfärger (t.ex. mörkgrönt eller marinblått).
 - Responsiv design för att fungera optimalt på dator, mobil och surfplatta.
 - Snabb läsningstid och tydlig navigering.
 
-**Övriga önskemål:**  
+Övriga önskemål:  
 - SEO-optimering för att öka synligheten i sökmotorer.
 - Enkel CMS (Content Management System) för att företaget ska kunna uppdatera innehåll själva (t.ex. WordPress).
 - Användarvänligt gränssnitt för att skapa en positiv upplevelse för besökarna.
 
-**Leveransdatum och budget:**  
+Leveransdatum och budget:  
 Leveransdatum: [Ange föreslaget datum]  
 Budget: [Ange ungefärlig budgetram]
 
